@@ -1,0 +1,8 @@
+Added Component: Designator=U4(Piezo)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "PS1240P02BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Piezo"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PP_CC Pin=U4-1
+Added Pin To Net: NetName=NetR26_2 Pin=U4-2
+Added Member To Class: ClassName=Badge Member=Component U4 Piezo

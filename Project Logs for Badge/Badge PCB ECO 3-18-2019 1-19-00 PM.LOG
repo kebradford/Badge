@@ -1,0 +1,9 @@
+Added Component: Designator=U3(Batt)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "3034TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Coin Cell"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=PP_CC Pin=U3-VDD
+Added Pin To Net: NetName=PP_CC Pin=U3-VDD
+Added Member To Class: ClassName=Badge Member=Component U3 Coin Cell

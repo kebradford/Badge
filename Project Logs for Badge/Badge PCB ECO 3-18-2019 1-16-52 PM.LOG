@@ -1,0 +1,640 @@
+Added Component: Designator=D1(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(*LED_ASMB-KTF0-0A306)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "516-3906-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/broadcom-limited/ASMB-KTF0-0A306/516-3906-1-ND/7917025?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Broadcom Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ASMB-KTF0-0A306"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "PLCC-4 Broadcom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ASMB-KTF0-0A306/Broadcom%20Limited/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(programmer header)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC0603(1608)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-331-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC1608X50X30LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-103-D"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RESC1608X50X30LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-103-D"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RESC1608X50X30LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-103-D"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(CKCP-PTS645S_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Actuator Length"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator Material"; Value = "Polyamide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "100mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.ckswitches.com/media/1471/pts645.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Type"; Value = "Illuminated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.ckswitches.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "60degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "100000Cycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-20degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "PTS645S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 6 x 6 mm, Pitch 4.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Function"; Value = "Off-Mom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "GullWing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=U1(32A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-ABA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revC, Mar-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead, 7x7x1.0 mm Body, 0.8mm Lead Pitch, Thin Profile Plastic Quad Flat Package (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2001"; VariantName = "[No Variations]"
+Added Component: Designator=U2(Multiplexer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "SN74CBTLV3251PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Multiplexer 3:8"; VariantName = "[No Variations]"
+Added Component: Designator=U3(Batt)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "3034TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Coin Cell"; VariantName = "[No Variations]"
+Added Component: Designator=U4(Piezo)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "PS1240P02BT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Piezo"; VariantName = "[No Variations]"
+Added Component: Designator=U5(2N7002K-7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2N7002K-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N-Type Mosfet"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A Pin=U1-6
+Added Pin To Net: NetName=A Pin=U2-5
+Added Net: Name=A
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=GND Pin=U5-S
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1_B Pin=R2-1
+Added Pin To Net: NetName=LED1_B Pin=U1-13
+Added Net: Name=LED1_B
+Added Pin To Net: NetName=LED1_R Pin=R1-1
+Added Pin To Net: NetName=LED1_R Pin=U1-12
+Added Net: Name=LED1_R
+Added Pin To Net: NetName=LED2_B Pin=R4-1
+Added Pin To Net: NetName=LED2_B Pin=U1-7
+Added Net: Name=LED2_B
+Added Pin To Net: NetName=LED2_R Pin=R3-1
+Added Pin To Net: NetName=LED2_R Pin=U1-14
+Added Net: Name=LED2_R
+Added Pin To Net: NetName=LED3_B Pin=R6-1
+Added Pin To Net: NetName=LED3_B Pin=U1-23
+Added Net: Name=LED3_B
+Added Pin To Net: NetName=LED3_R Pin=R5-1
+Added Pin To Net: NetName=LED3_R Pin=U1-8
+Added Net: Name=LED3_R
+Added Pin To Net: NetName=LED4_B Pin=R8-1
+Added Pin To Net: NetName=LED4_B Pin=U1-25
+Added Net: Name=LED4_B
+Added Pin To Net: NetName=LED4_R Pin=R7-1
+Added Pin To Net: NetName=LED4_R Pin=U1-24
+Added Net: Name=LED4_R
+Added Pin To Net: NetName=LED5_B Pin=R10-1
+Added Pin To Net: NetName=LED5_B Pin=U1-27
+Added Net: Name=LED5_B
+Added Pin To Net: NetName=LED5_R Pin=R9-1
+Added Pin To Net: NetName=LED5_R Pin=U1-26
+Added Net: Name=LED5_R
+Added Pin To Net: NetName=LED6_B Pin=R12-1
+Added Pin To Net: NetName=LED6_B Pin=U1-20
+Added Net: Name=LED6_B
+Added Pin To Net: NetName=LED6_R Pin=R11-1
+Added Pin To Net: NetName=LED6_R Pin=U1-28
+Added Net: Name=LED6_R
+Added Pin To Net: NetName=LED7_B Pin=R14-1
+Added Pin To Net: NetName=LED7_B Pin=U1-31
+Added Net: Name=LED7_B
+Added Pin To Net: NetName=LED7_R Pin=R13-1
+Added Pin To Net: NetName=LED7_R Pin=U1-30
+Added Net: Name=LED7_R
+Added Pin To Net: NetName=LED8_B Pin=R16-1
+Added Pin To Net: NetName=LED8_B Pin=U1-1
+Added Net: Name=LED8_B
+Added Pin To Net: NetName=LED8_R Pin=R15-1
+Added Pin To Net: NetName=LED8_R Pin=U1-32
+Added Net: Name=LED8_R
+Added Pin To Net: NetName=LED9_B Pin=R18-1
+Added Pin To Net: NetName=LED9_B Pin=U1-9
+Added Net: Name=LED9_B
+Added Pin To Net: NetName=LED9_R Pin=R17-1
+Added Pin To Net: NetName=LED9_R Pin=U1-2
+Added Net: Name=LED9_R
+Added Pin To Net: NetName=LED10_B Pin=R20-1
+Added Pin To Net: NetName=LED10_B Pin=U1-11
+Added Net: Name=LED10_B
+Added Pin To Net: NetName=LED10_R Pin=R19-1
+Added Pin To Net: NetName=LED10_R Pin=U1-10
+Added Net: Name=LED10_R
+Added Pin To Net: NetName=LED11_B Pin=R22-1
+Added Pin To Net: NetName=LED11_B Pin=U2-3
+Added Net: Name=LED11_B
+Added Pin To Net: NetName=LED11_R Pin=R21-1
+Added Pin To Net: NetName=LED11_R Pin=U2-4
+Added Net: Name=LED11_R
+Added Pin To Net: NetName=LED12_B Pin=R24-1
+Added Pin To Net: NetName=LED12_B Pin=U2-1
+Added Net: Name=LED12_B
+Added Pin To Net: NetName=LED12_R Pin=R23-1
+Added Pin To Net: NetName=LED12_R Pin=U2-2
+Added Net: Name=LED12_R
+Added Pin To Net: NetName=MISO Pin=J1-1
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=NetD1_4 Pin=R2-2
+Added Net: Name=NetD1_4
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R3-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_4 Pin=R4-2
+Added Net: Name=NetD2_4
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-2
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=R6-2
+Added Net: Name=NetD3_4
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R7-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD4_4 Pin=D4-4
+Added Pin To Net: NetName=NetD4_4 Pin=R8-2
+Added Net: Name=NetD4_4
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R9-2
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD5_4 Pin=D5-4
+Added Pin To Net: NetName=NetD5_4 Pin=R10-2
+Added Net: Name=NetD5_4
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R11-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD6_4 Pin=D6-4
+Added Pin To Net: NetName=NetD6_4 Pin=R12-2
+Added Net: Name=NetD6_4
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R13-2
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD7_4 Pin=D7-4
+Added Pin To Net: NetName=NetD7_4 Pin=R14-2
+Added Net: Name=NetD7_4
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R15-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD8_4 Pin=D8-4
+Added Pin To Net: NetName=NetD8_4 Pin=R16-2
+Added Net: Name=NetD8_4
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R17-2
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD9_4 Pin=D9-4
+Added Pin To Net: NetName=NetD9_4 Pin=R18-2
+Added Net: Name=NetD9_4
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R19-2
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD10_4 Pin=D10-4
+Added Pin To Net: NetName=NetD10_4 Pin=R20-2
+Added Net: Name=NetD10_4
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R21-2
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD11_4 Pin=D11-4
+Added Pin To Net: NetName=NetD11_4 Pin=R22-2
+Added Net: Name=NetD11_4
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R23-2
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD12_4 Pin=D12-4
+Added Pin To Net: NetName=NetD12_4 Pin=R24-2
+Added Net: Name=NetD12_4
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U4-2
+Added Pin To Net: NetName=NetR26_2 Pin=U5-D
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=U5-G
+Added Net: Name=NetR27_1
+Added Pin To Net: NetName=Piezo Pin=R27-2
+Added Pin To Net: NetName=Piezo Pin=U2-15
+Added Net: Name=Piezo
+Added Pin To Net: NetName=PP_CC Pin=D1-1
+Added Pin To Net: NetName=PP_CC Pin=D2-1
+Added Pin To Net: NetName=PP_CC Pin=D3-1
+Added Pin To Net: NetName=PP_CC Pin=D4-1
+Added Pin To Net: NetName=PP_CC Pin=D5-1
+Added Pin To Net: NetName=PP_CC Pin=D6-1
+Added Pin To Net: NetName=PP_CC Pin=D7-1
+Added Pin To Net: NetName=PP_CC Pin=D8-1
+Added Pin To Net: NetName=PP_CC Pin=D9-1
+Added Pin To Net: NetName=PP_CC Pin=D10-1
+Added Pin To Net: NetName=PP_CC Pin=D11-1
+Added Pin To Net: NetName=PP_CC Pin=D12-1
+Added Pin To Net: NetName=PP_CC Pin=J1-2
+Added Pin To Net: NetName=PP_CC Pin=R25-2
+Added Pin To Net: NetName=PP_CC Pin=R26-1
+Added Pin To Net: NetName=PP_CC Pin=U1-4
+Added Pin To Net: NetName=PP_CC Pin=U1-18
+Added Pin To Net: NetName=PP_CC Pin=U2-16
+Added Pin To Net: NetName=PP_CC Pin=U3-VDD
+Added Pin To Net: NetName=PP_CC Pin=U3-VDD
+Added Pin To Net: NetName=PP_CC Pin=U4-1
+Added Net: Name=PP_CC
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=RESET Pin=R25-1
+Added Pin To Net: NetName=RESET Pin=SW1-3
+Added Pin To Net: NetName=RESET Pin=SW1-4
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Net: Name=RESET
+Added Pin To Net: NetName=S0 Pin=U1-19
+Added Pin To Net: NetName=S0 Pin=U2-11
+Added Net: Name=S0
+Added Pin To Net: NetName=S1 Pin=U1-22
+Added Pin To Net: NetName=S1 Pin=U2-10
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=U1-3
+Added Pin To Net: NetName=S2 Pin=U2-9
+Added Net: Name=S2
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK
+Added Class: Name=Badge

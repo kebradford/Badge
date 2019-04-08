@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED11_B Pin=U2-3
+Removed Pin From Net: NetName=LED11_R Pin=U2-4
+Removed Pin From Net: NetName=Piezo Pin=U2-15
+Added Pin To Net: NetName=Piezo Pin=U2-3
+Added Pin To Net: NetName=LED11_B Pin=U2-14
+Added Pin To Net: NetName=LED11_R Pin=U2-15

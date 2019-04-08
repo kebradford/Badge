@@ -1,0 +1,7 @@
+Added Component: Designator=R28(RESC1608X50X30LL20T20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RR0816P-103-D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR27_1 Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Member To Class: ClassName=Badge Member=Component R28 603

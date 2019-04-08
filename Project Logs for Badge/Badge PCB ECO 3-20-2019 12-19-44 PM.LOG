@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MISO Pin=U1-9
+Removed Pin From Net: NetName=MOSI Pin=U1-10
+Removed Pin From Net: NetName=SCK Pin=U1-11
+Removed Pin From Net: NetName=RESET Pin=U1-12
+Removed Pin From Net: NetName=LED9_R Pin=U1-15
+Removed Pin From Net: NetName=LED9_B Pin=U1-16
+Removed Pin From Net: NetName=LED8_R Pin=U1-17
+Removed Pin From Net: NetName=LED4_B Pin=U1-29
+Added Pin To Net: NetName=LED4_B Pin=U1-9
+Added Pin To Net: NetName=LED8_R Pin=U1-10
+Added Pin To Net: NetName=LED9_B Pin=U1-11
+Added Pin To Net: NetName=LED9_R Pin=U1-12
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Pin To Net: NetName=RESET Pin=U1-29
