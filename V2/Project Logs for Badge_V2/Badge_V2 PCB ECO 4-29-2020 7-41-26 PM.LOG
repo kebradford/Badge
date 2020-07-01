@@ -1,0 +1,23 @@
+Added Component: Designator=P1(HRWN-M20-9980346_V)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MISO Pin=P1-1
+Added Pin To Net: NetName=VDD Pin=P1-2
+Added Pin To Net: NetName=SCK Pin=P1-3
+Added Pin To Net: NetName=MOSI Pin=P1-4
+Added Pin To Net: NetName=RESET Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Member To Class: ClassName=Badge_V2 Member=Component LED1 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED2 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED3 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED4 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED5 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED6 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED7 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED8 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED9 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED10 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED11 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LED12 Red
+Added Member To Class: ClassName=Badge_V2 Member=Component LS1 Piezo
+Added Member To Class: ClassName=Badge_V2 Member=Component P1 CN-2P-M-R6
+Added Member To Class: ClassName=Badge_V2 Member=Component U1 ATMEGA328

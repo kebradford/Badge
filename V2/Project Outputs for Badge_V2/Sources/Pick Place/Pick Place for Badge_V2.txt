@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\Users\Katie .DESKTOP-H3FAEDP\AppData\Local\Temp\Releases\Snapshot\1\Sources\Pick Place\Pick Place for Badge_V2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/04/20
+Time:       10:24
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment     Layer       Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                    
+P1         CN-2P-M-R6  BottomLayer HRWN-M20-9980346_V    694.000       212.000       180      ""                                                                             
+U1         ATMEGA328   BottomLayer 1-2199298-9           317.000       781.000       90       "AVR AVR® ATmega Microcontroller IC 8-Bit 20MHz 32KB (16K x 16) FLASH 28-PDIP" 
+LS1        Piezo       TopLayer    Piezo                 1054.425      2014.000      0        "AUDIO PIEZO TRANSDUCER 30V TH"                                                
+Y1         16MHz       BottomLayer XTAL_ECS-160-20-3X-TR 655.000       591.000       90       "16MHz Â±30ppm Crystal 20pF 50 Ohms HC-49/US"                                  
+U3         "Coin Cell" BottomLayer Batt                  1546.000      354.000       0        "Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab"                           
+SW1        SPDT        BottomLayer EG1218_EG1218         956.000       276.000       270      "Slide Switch SPDT Through Hole"                                               
+R14        10K         BottomLayer RESC0805(2012)_M      898.339       871.000       180      resistor                                                                       
+R13        220R        BottomLayer RESC0805(2012)_M      1053.000      2471.000      270      resistor                                                                       
+R12        220R        BottomLayer RESC0805(2012)_M      805.000       2393.000      300      resistor                                                                       
+R11        220R        BottomLayer RESC0805(2012)_M      656.000       2223.000      330      resistor                                                                       
+R10        220R        BottomLayer RESC0805(2012)_M      593.000       1991.000      360      resistor                                                                       
+R9         220R        BottomLayer RESC0805(2012)_M      650.000       1779.000      30       resistor                                                                       
+R8         220R        BottomLayer RESC0805(2012)_M      793.000       1614.000      60       resistor                                                                       
+R7         220R        BottomLayer RESC0805(2012)_M      1059.000      1531.000      90       resistor                                                                       
+R6         220R        BottomLayer RESC0805(2012)_M      1283.000      1577.000      120      resistor                                                                       
+R5         220R        BottomLayer RESC0805(2012)_M      1480.000      1769.000      150      resistor                                                                       
+R4         220R        BottomLayer RESC0805(2012)_M      1538.000      1985.000      180      resistor                                                                       
+R3         220R        BottomLayer RESC0805(2012)_M      1478.000      2224.000      210      resistor                                                                       
+R2         220R        BottomLayer RESC0805(2012)_M      1289.000      2419.000      240      resistor                                                                       
+R1         220R        BottomLayer RESC0805(2012)_M      56.000        1479.000      90       resistor                                                                       
+LED12      Red         TopLayer    LED_0805              1051.000      2668.000      90       "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED11      Red         TopLayer    LED_0805              703.000       2571.000      120      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED10      Red         TopLayer    LED_0805              464.000       2332.000      150      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED9       Red         TopLayer    LED_0805              379.000       1991.000      180      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED8       Red         TopLayer    LED_0805              460.000       1668.000      210      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED7       Red         TopLayer    LED_0805              695.000       1419.000      240      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED6       Red         TopLayer    LED_0805              1057.000      1317.000      270      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED5       Red         TopLayer    LED_0805              1380.000      1403.000      300      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED4       Red         TopLayer    LED_0805              1640.000      1668.000      330      "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED3       Red         TopLayer    LED_0805              1726.000      1987.000      0        "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED2       Red         TopLayer    LED_0805              1632.000      2326.000      30       "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+LED1       Red         TopLayer    LED_0805              1385.000      2584.000      60       "Red 625nm LED Indication - Discrete 2V 0805 (2012 Metric)"                    
+C4         33pF        BottomLayer CAPC0805(2012)145_L   809.000       559.000       180      capacitor                                                                      
+C3         33pF        BottomLayer CAPC0805(2012)145_L   807.000       679.000       180      capacitor                                                                      
+C2         .1uF        BottomLayer CAPC0805(2012)145_L   58.000        896.000       90       capacitor                                                                      
+C1         .1uF        BottomLayer CAPC0805(2012)145_L   601.504       829.000       180      capacitor                                                                      
