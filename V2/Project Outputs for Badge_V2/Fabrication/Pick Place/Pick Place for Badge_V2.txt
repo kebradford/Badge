@@ -1,5 +1,5 @@
 Altium Designer Pick and Place Locations
-C:\Users\bradf\AppData\Local\TempReleases\Snapshot\1\Sources\Pick Place\Pick Place for Badge_V2.txt
+C:\Users\bradf\AppData\Local\TempReleases\Snapshot\1\Fabrication\Pick Place\Pick Place for Badge_V2.txt
 
 ========================================================================================================================
 File Design Information:
