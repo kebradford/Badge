@@ -1,0 +1,28 @@
+Added Component: Designator=U1(1-2199298-9)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "ATMEGA328-PU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ATMEGA328"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RESET Pin=U1-1
+Added Pin To Net: NetName=LED1 Pin=U1-4
+Added Pin To Net: NetName=LED2 Pin=U1-5
+Added Pin To Net: NetName=LED3 Pin=U1-6
+Added Pin To Net: NetName=VDD Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=NetC3_2 Pin=U1-9
+Added Pin To Net: NetName=NetC4_2 Pin=U1-10
+Added Pin To Net: NetName=LED4 Pin=U1-11
+Added Pin To Net: NetName=LED5 Pin=U1-12
+Added Pin To Net: NetName=LED6 Pin=U1-13
+Added Pin To Net: NetName=Piezo Pin=U1-15
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Pin To Net: NetName=SCK Pin=U1-19
+Added Pin To Net: NetName=VDD Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=LED12 Pin=U1-23
+Added Pin To Net: NetName=LED11 Pin=U1-24
+Added Pin To Net: NetName=LED10 Pin=U1-25
+Added Pin To Net: NetName=LED9 Pin=U1-26
+Added Pin To Net: NetName=LED8 Pin=U1-27
+Added Pin To Net: NetName=LED7 Pin=U1-28
+Added Member To Class: ClassName=Badge_V2 Member=Component U1 ATMEGA328

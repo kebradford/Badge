@@ -1,0 +1,5 @@
+Added Component: Designator=TP?(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Badge_V2 Member=Component TP? TP

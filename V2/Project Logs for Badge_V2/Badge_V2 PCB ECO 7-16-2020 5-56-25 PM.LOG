@@ -1,0 +1,36 @@
+Added Component: Designator=TP1(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=TP2(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=TP1-1
+Added Pin To Net: NetName=VDD_CC Pin=TP2-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=MOSI Pin=TP4-1
+Added Pin To Net: NetName=MISO Pin=TP5-1
+Added Pin To Net: NetName=SCK Pin=TP6-1
+Added Member To Class: ClassName=Badge_V2 Member=Component TP1 TP
+Added Member To Class: ClassName=Badge_V2 Member=Component TP2 TP
+Added Member To Class: ClassName=Badge_V2 Member=Component TP3 TP
+Added Member To Class: ClassName=Badge_V2 Member=Component TP4 TP
+Added Member To Class: ClassName=Badge_V2 Member=Component TP5 TP
+Added Member To Class: ClassName=Badge_V2 Member=Component TP6 TP

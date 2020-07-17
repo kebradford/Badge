@@ -1,0 +1,36 @@
+Added Component: Designator=GND(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=MISO(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=MOSI(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=SCK(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=VDD_CC(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Component: Designator=VDD(TP)
+Add component (AddParameter): Name = "Manufacturer"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Pin To Net: NetName=MISO Pin=MISO-1
+Added Pin To Net: NetName=MOSI Pin=MOSI-1
+Added Pin To Net: NetName=SCK Pin=SCK-1
+Added Pin To Net: NetName=VDD Pin=VDD-1
+Added Pin To Net: NetName=VDD_CC Pin=VDD_CC-1
+Added Member To Class: ClassName=Badge_V2 Member=Component GND TP
+Added Member To Class: ClassName=Badge_V2 Member=Component MISO TP
+Added Member To Class: ClassName=Badge_V2 Member=Component MOSI TP
+Added Member To Class: ClassName=Badge_V2 Member=Component SCK TP
+Added Member To Class: ClassName=Badge_V2 Member=Component VDD_CC TP
+Added Member To Class: ClassName=Badge_V2 Member=Component VDD TP
