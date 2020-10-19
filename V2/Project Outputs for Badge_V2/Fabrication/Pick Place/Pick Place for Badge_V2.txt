@@ -5,7 +5,7 @@ C:\Users\bradf\AppData\Local\TempReleases\Snapshot\1\Fabrication\Pick Place\Pick
 File Design Information:
 
 Date:       17/07/20
-Time:       14:04
+Time:       14:14
 Revision:   Not in VersionControl
 Variant:    No variations
 Units used: mil
@@ -23,7 +23,7 @@ LS1        Piezo       TopLayer    Piezo                 1054.425      2014.000 
 Y1         16MHz       BottomLayer XTAL_ECS-160-20-3X-TR 655.000       591.000       90       "16MHz ±30ppm Crystal 20pF 50 Ohms HC-49/US"                                  
 U3         "Coin Cell" BottomLayer Batt                  1546.000      354.000       0        "Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab"                           
 SW1        SPDT        BottomLayer EG1218_EG1218         1569.000      797.000       360      "Slide Switch SPDT Through Hole"                                               
-R14        10K         BottomLayer RESC0805(2012)_M      655.000       1435.000      180      resistor                                                                       
+R14        10K         BottomLayer RESC0805(2012)_M      691.800       1435.000      180      resistor                                                                       
 R13        220R        BottomLayer RESC0805(2012)_M      1053.000      2471.000      270      resistor                                                                       
 R12        220R        BottomLayer RESC0805(2012)_M      805.000       2393.000      300      resistor                                                                       
 R11        220R        BottomLayer RESC0805(2012)_M      656.000       2223.000      330      resistor                                                                       

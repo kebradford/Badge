@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Badge_V2.PcbDoc   7/17/2020  2:04:42 PM
+NCDrill File Report For: Badge_V2.PcbDoc   7/17/2020  2:14:34 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,12 +7,11 @@ ASCII RoundHoles File : Badge_V2.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.305mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T1      12mil (0.305mm)                                           Round             17        PTH        0.00inch (0.00mm)
 T2      28mil (0.701mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T3      28mil (0.711mm)                                           Round             1         PTH        0.00inch (0.00mm)
-T4      35mil (0.899mm)                                           Round             3         PTH        0.00inch (0.00mm)
-T5      39mil (1.001mm)                                           Round             6         PTH        0.00inch (0.00mm)
-T6      47mil (1.199mm)                                           Round             28        PTH        0.00inch (0.00mm)
+T3      35mil (0.899mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      47mil (1.199mm)                                           Round             28        PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              56
 
